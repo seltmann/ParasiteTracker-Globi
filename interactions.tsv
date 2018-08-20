@@ -1,0 +1,67 @@
+sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetBodyPartName	targetBodyPartId	targetTaxonId	targetTaxonName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
+https://www.gbif.org/species/5110829	Calyptra albivirgata	RO:0002470	eats				Unknown						doi:10.1007/s13127-011-0039-1	"Gittenberger, A., Gittenberger, E. (2011). Cryptic, adaptive radiation of endoparasitic snails: sibling species of Leptoconchus (Gastropoda: Coralliophilidae) in corals. Org Divers Evol, 11(1), 21–41. doi:10.1007/s13127-011-0039-1"
+https://www.gbif.org/species/5110829	Calyptra albivirgata	RO:0002470	eats				Animalia							
+https://www.gbif.org/species/110462356	Calyptra bicolor	RO:0002470	eats				Rubus sp.							
+https://www.gbif.org/species/110462356	Calyptra bicolor	RO:0002470	eats				Homo sapiens							
+	Calyptra canadensis	RO:0002470	eats				Fragaria sp.							
+	Calyptra canadensis	RO:0002470	eats				Unknown Animal							
+	Calyptra eustrigata	RO:0002470	eats				Prunus sp.							
+	Calyptra eustrigata	RO:0002470	eats				Citrus sp.							
+	Calyptra eustrigata	RO:0002470	eats				Boselaphus sp.							
+	Calyptra eustrigata	RO:0002470	eats				Rusa sp.							
+	Calyptra eustrigata	RO:0002470	eats				Tapirus sp.							
+	Calyptra eustrigata	RO:0002470	eats				Bubalus sp.							
+	Calyptra eustrigata	RO:0002470	eats				Diceros sp.							
+	Calyptra eustrigata	RO:0002470	eats				Elephas sp.							
+	Calyptra eustrigata	RO:0002470	eats				Homo sapiens							
+	Calyptra fasciata	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra fasciata	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Ficus sp.							
+	Calyptra fasciata	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Rubus sp.							
+	Calyptra fasciata	RO:0002470	eats				Elephas sp.							
+	Calyptra fasciata	RO:0002470	eats				Equus sp.							
+	Calyptra fasciata	RO:0002470	eats				Sus sp.							
+	Calyptra fasciata	RO:0002470	eats				Homo sapiens							
+	Calyptra fletcheri	RO:0002470	eats				Rubus sp.							
+	Calyptra fletcheri	RO:0002470	eats				Homo sapiens							
+	Calyptra gruesa	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Vitis sp.							
+	Calyptra gruesa	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra gruesa	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Malus sp.							
+	Calyptra gruesa	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Pyrus sp.							
+	Calyptra gruesa	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Eriobotrya sp.							
+	Calyptra gruesa		does not eat				Animal							
+	Calyptra hokkaida	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Vitis sp.							
+	Calyptra hokkaida	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra hokkaida		does not eat				Animal							
+	Calyptra lata	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Vitis sp.							
+	Calyptra lata	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra lata	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Malus sp.							
+	Calyptra lata		does not eat				Animal							
+	Calyptra minuticornis minuticornis	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Ficus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Citrus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Rubus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats				Elephas sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats				Equus sp.							
+	Calyptra minuticornis novapomeraniae	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Ficus sp.							
+	Calyptra minuticornis novapomeraniae	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Citrus sp.							
+	Calyptra minuticornis novapomeraniae	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Vitis sp.							
+	Calyptra minuticornis novapomeraniae		does not eat				Animal							
+	Calyptra nyei	RO:0002470	eats				Unknown Animal							
+	Calyptra nyei	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Unknown							
+	Calyptra ophideroides	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra ophideroides	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Ficus sp.							
+	Calyptra ophideroides	RO:0002470	eats				Homo sapiens							
+	Calyptra orthograpta	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Bouea sp.							
+	Calyptra orthograpta	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Mangifera sp.							
+	Calyptra orthograpta	RO:0002470	eats				Elephas sp.							
+	Calyptra parva	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Ficus sp.							
+	Calyptra parva	RO:0002470	eats				Homo sapiens							
+	Calyptra pseudobicolor	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra pseudobicolor	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Rubus sp.							
+	Calyptra pseudobicolor	RO:0002470	eats				Homo sapiens							
+	Calyptra subnubila	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Unknown							
+	Calyptra subnubila	RO:0002470	eats				Unknown Animal							
+	Calyptra thalictri	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Rubus sp.							
+	Calyptra thalictri	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Vitis sp.							
+	Calyptra thalictri	RO:0002470	eats	fruit	http://purl.obolibrary.org/obo/PO_0009001		Prunus sp.							
+	Calyptra thalictri	RO:0002470	eats				Homo sapiens							
