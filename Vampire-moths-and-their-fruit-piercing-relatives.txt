@@ -42,3 +42,26 @@ sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetTaxonI
 	Calyptra minuticornis minuticornis	RO:0002470	eats fruit of		Rubus sp.							
 	Calyptra minuticornis minuticornis	RO:0002470	eats		Elephas sp.							
 	Calyptra minuticornis minuticornis	RO:0002470	eats		Equus sp.							
+	Calyptra minuticornis novapomeraniae	RO:0002470	eats fruit of		Ficus sp.							
+	Calyptra minuticornis novapomeraniae	RO:0002470	eats fruit of		Citrus sp.							
+	Calyptra minuticornis novapomeraniae	RO:0002470	eats fruit of		Vitis sp.							
+	Calyptra minuticornis novapomeraniae		does not eat		Animal							
+	Calyptra nyei	RO:0002470	eats		Unknown Animal							
+	Calyptra nyei	RO:0002470	eats fruit of		Unknown							
+	Calyptra ophideroides	RO:0002470	eats fruit of		Prunus sp.							
+	Calyptra ophideroides	RO:0002470	eats fruit of		Ficus sp.							
+	Calyptra ophideroides	RO:0002470	eats		Homo sapiens							
+	Calyptra orthograpta	RO:0002470	eats fruit of		Bouea sp.							
+	Calyptra orthograpta	RO:0002470	eats fruit of		Mangifera sp.							
+	Calyptra orthograpta	RO:0002470	eats		Elephas sp.							
+	Calyptra parva	RO:0002470	eats fruit of		Ficus sp.							
+	Calyptra parva	RO:0002470	eats		Homo sapiens							
+	Calyptra pseudobicolor	RO:0002470	eats fruit of		Prunus sp.							
+	Calyptra pseudobicolor	RO:0002470	eats fruit of		Rubus sp.							
+	Calyptra pseudobicolor	RO:0002470	eats		Homo sapiens							
+	Calyptra subnubila	RO:0002470	eats fruit of		Unknown							
+	Calyptra subnubila	RO:0002470	eats		Unknown Animal							
+	Calyptra thalictri	RO:0002470	eats fruit of		Rubus sp.							
+	Calyptra thalictri	RO:0002470	eats fruit of		Vitis sp.							
+	Calyptra thalictri	RO:0002470	eats fruit of		Prunus sp.							
+	Calyptra thalictri	RO:0002470	eats		Homo sapiens							
