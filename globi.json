@@ -1,4 +1,6 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature."
+  "_comment": "Vampire moths and their fruit-piercing relatives (Lepidoptera: Erebidae: Calpinae)",
+  "citation": "J.M. Zaspel, R. Zahiri, M.A. Hoy, D. Janzen, S.J. Weller, N. Wahlberg. 2012. A molecular phylogenetic analysis of the vampire moths and their fruit-piercing relatives (Lepidoptera: Erebidae: Calpinae),
+Molecular Phylogenetics and Evolution, Volume 65, Issue 2"
+  "referenceDOI":"https://doi.org/10.1016/j.ympev.2012.06.029"
 }
