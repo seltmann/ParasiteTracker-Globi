@@ -23,8 +23,22 @@ sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetTaxonI
 	Calyptra fasciata	RO:0002470	eats		Homo sapiens							
 	Calyptra fletcheri	RO:0002470	eats		Rubus sp.							
 	Calyptra fletcheri	RO:0002470	eats		Homo sapiens							
-	Calyptra gruesa	RO:0002470	eats		Vitis sp.							
+	Calyptra gruesa	RO:0002470	eats fruit of		Vitis sp.							
 	Calyptra gruesa	RO:0002470	eats fruit of		Prunus sp.							
-	Calyptra gruesa	RO:0002470	eats		Malus sp.							
-	Calyptra gruesa	RO:0002470	eats		Pyrus sp.							
-	Calyptra gruesa	RO:0002470	eats		Eriobotrya sp.							
+	Calyptra gruesa	RO:0002470	eats fruit of		Malus sp.							
+	Calyptra gruesa	RO:0002470	eats fruit of		Pyrus sp.							
+	Calyptra gruesa	RO:0002470	eats fruit of		Eriobotrya sp.							
+	Calyptra gruesa		does not eat		Animal							
+	Calyptra hokkaida	RO:0002470	eats fruit of		Vitis sp.							
+	Calyptra hokkaida	RO:0002470	eats fruit of		Prunus sp.							
+	Calyptra hokkaida		does not eat		Animal							
+	Calyptra lata	RO:0002470	eats fruit of		Vitis sp.							
+	Calyptra lata	RO:0002470	eats fruit of		Prunus sp.							
+	Calyptra lata	RO:0002470	eats fruit of		Malus sp.							
+	Calyptra lata		does not eat		Animal							
+	Calyptra minuticornis minuticornis	RO:0002470	eats fruit of		Prunus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats fruit of		Ficus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats fruit of		Citrus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats fruit of		Rubus sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats		Elephas sp.							
+	Calyptra minuticornis minuticornis	RO:0002470	eats		Equus sp.							
