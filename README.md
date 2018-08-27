@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/seltmann/template-dataset.svg)](https://travis-ci.org/seltmann/vampire-moths-and-their-fruit-piercing-relatives) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/template-dataset)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moths-and-their-fruit-piercing-relatives) 
+[![Build Status](https://travis-ci.org/seltmann/template-dataset.svg)](https://travis-ci.org/seltmann/vampire-moths-and-their-fruit-piercing-relatives) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/vampire-moths-and-their-fruit-piercing-relatives)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moths-and-their-fruit-piercing-relatives) 
 
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
@@ -40,7 +40,7 @@ To enable:
 
 Now, whenever you make a change to data repository that is incompatible with GloBI, you receive a notification. If you'd like, you can include a build badge on your own html pages to see the health of your data. Here's an example of a build badge:  
 
-[![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.png)](https://travis-ci.org/globalbioticinteractions/template-dataset)
+[![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.png)](https://travis-ci.org/globalbioticinteractions/vampire-moths-and-their-fruit-piercing-relatives)
 
 
 ## Data Format and Dictionary
