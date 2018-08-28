@@ -40,7 +40,7 @@ To enable:
 
 Now, whenever you make a change to data repository that is incompatible with GloBI, you receive a notification. If you'd like, you can include a build badge on your own html pages to see the health of your data. Here's an example of a build badge:  
 
-[![Build Status](https://travis-ci.org/globalbioticinteractions/vampire-moths-and-their-fruit-piercing-relatives.png)](https://travis-ci.org/globalbioticinteractions/vampire-moths-and-their-fruit-piercing-relatives)
+[![Build Status](https://travis-ci.org/seltmann/vampire-moths-and-their-fruit-piercing-relatives.png)](https://travis-ci.org/seltmann/vampire-moths-and-their-fruit-piercing-relatives)
 
 
 ## Data Format and Dictionary
