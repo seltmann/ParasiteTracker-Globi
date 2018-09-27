@@ -1,6 +1,6 @@
 ## Vampire moths and their fruit-piercing relatives data
 
-[![Build Status](https://travis-ci.org/seltmann/vampire-moth-globi.svg)](https://travis-ci.org/seltmann/vampire-moth-globi) //[![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/vampire-moth-globi)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moth-globi) 
+[![Build Status](https://travis-ci.org/seltmann/vampire-moth-globi.svg)](https://travis-ci.org/seltmann/vampire-moth-globi)[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/vampire-moth-globi)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moth-globi) 
 
 [```Citation```](#Citation) / [```Interaction Types```](#interaction-types) / [```Data Definitions```](#data-definitions) / [```Included Resources```](#included-resources) /  [```Data Issues```](#data-issues) / [```Summary```](#summary)
 
@@ -22,7 +22,6 @@ interactionTypeName | interactionTypeId
 --- | --- |
 eats | http://purl.obolibrary.org/obo/RO_0002470
 piercing | http://purl.obolibrary.org/obo/RO_0002437
-… | … | … 
  
 ### Data Definitions
 The definitions of the columns used in the interactions.tsv dataset are described here. If these coorespond with Darwin Core they are mapped to those classes. Some of the columns in the template were unused.
