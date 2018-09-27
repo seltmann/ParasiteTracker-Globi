@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/seltmann/vampire-moth-globi.svg)](https://travis-ci.org/seltmann/vampire-moth-globi) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/vampire-moth-globi)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moth-globi) 
 
-[```Definitions```](#Definitions) / [```Citation```](#Citation) / [```Interaction Types and Definitions```](#Interaction Types and Definitions) / [```Included Resource Citations```](#Included Resource Citations) / [```Data Decisions```](#Data Decision) /  [```Data Issues```](#Data Issues) / [```Summary```](#summary)
+[```Definitions```](#Definitions) / [```Citation```](#Citation) / [```Interaction Types and Definitions```](#interaction-types-and-definitions) / [```Included Resource Citations```](#included-resource-citations) / [```Data Decisions```](#data-decision) /  [```Data Issues```](#data-issues) / [```Summary```](#summary)
 
 
 ### Description
