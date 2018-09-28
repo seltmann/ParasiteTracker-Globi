@@ -1,21 +1,22 @@
 ## Description of the content in vampire-moth-globi
 
-[![Build Status](https://travis-ci.org/seltmann/vampire-moth-globi.svg)](https://travis-ci.org/seltmann/vampire-moth-globi) //[![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/vampire-moth-globi)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moth-globi) 
+[![Build Status](https://travis-ci.org/seltmann/vampire-moth-globi.svg)](https://travis-ci.org/seltmann/vampire-moth-globi)  [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:seltmann/vampire-moth-globi)](http://globalbioticinteractions.org/?accordingTo=globi:seltmann/vampire-moth-globi) 
 
 [```Citation```](#Citation) / [```Interaction Types```](#interaction-types) / [```Data Definitions```](#data-definitions) / [```Included Resources```](#included-resources) /  [```Data Issues```](#data-issues) / [```Summary```](#summary)
 
 
 ### Description
 
-vampire-moth-globi is a repository for interaction data about vampire moths and their fruit-piercing relatives. The feeding observations are  from the literature. Multiple tables used for presentations were merged with new data to create this table. A pdf of the data is available ([Zaspel, 2018 https://github.com/seltmann/vampire-moth-globi/blob/master/calyptra_hosts.pdf]).
+vampire-moth-globi is a repository for interaction data about vampire moths and their fruit-piercing relatives. The feeding observations are from the literature. A pdf of the origninal interpretation in a table format is available ([Zaspel, 2018](https://github.com/seltmann/vampire-moth-globi/blob/master/calyptra_hosts.pdf])).
 
-This GitHub repository was cloned from [globalbioticinteractions/template-dataset https://github.com/globalbioticinteractions/template-dataset], which includes a blank interactions.tsv, README and globi.json. GloBI requires that the interactions.tsv be called interactions.tsv and for the globi.json file to exist. Some column headers of inteteractions.tsv file was modified from the cloned template, but follow the naming conventions.
+This GitHub repository was cloned from [globalbioticinteractions/template-dataset](https://github.com/globalbioticinteractions/template-dataset), which includes a blank interactions.tsv, README and globi.json. GloBI requires that the interactions.tsv be called interactions.tsv and for the globi.json file to exist. Some column headers of inteteractions.tsv file was modified from the cloned template, but follow the naming conventions.
 
 ### Citation
 
 Jennifer Zaspel. 2018. Biotic species interactions manually extracted from literature.
 
 ### Interaction Types
+
 The interactions in this dataset were mapped to terms in the Relations Ontology (RO). Piercing was not available in RO, so ```biotically interacts with``` was used as a replacement.
 
 interactionTypeName | interactionTypeId
@@ -27,6 +28,7 @@ in nature | http://purl.obolibrary.org/obo/ENVO_01001226
 under experimental conditions | http://purl.obolibrary.org/obo/ENVO_01001405
  
 ### Data Definitions
+
 The definitions of the columns used in the interactions.tsv dataset are described here. If these correspond with Darwin Core they are mapped to those classes. Some of the columns in the template were unused.
 
   * A **InteractionID** : An non-unique identifier that links two interactions as part of the same observation in the dataset.
@@ -54,6 +56,7 @@ The definitions of the columns used in the interactions.tsv dataset are describe
   * A **referenceCitation**  : The reference for the interaction.
   
 ### Included Resources
+
 1. Bänziger, H. 1970. The piercing mechanism of the fruit piercing moth Calpe (Calyptra) thalictri Bkh. (Noctuidae) with reference to the skin-piercing blood-sucking moth Calpe eustrigata Hmps. Acta Tropica, 27: 54-88.
 1. Bänziger, H. 1975. Skin-piercing blood-sucking moths I: Ecological and ethological studies on Calpeeustrigata (Lepid., Noctuidae). Acta tropica, (Basel) 32: 366-369.
 1. Bänziger, H. 1979. Skin-piercing blood-sucking moths II: Studies on a further 3 adult Calyptra [Calpe] sp. (Lepid., Noctuidae). Acta Trop. 36(1):23-37.
@@ -63,13 +66,14 @@ The definitions of the columns used in the interactions.tsv dataset are describe
 1. Quammen, D. Natural Acts: A Sidelong View of Science and Nature. 1985 pp. 47-52
 1. Zaspel, J.M., V.S. Kononenko, and P.Z. Goldstein. 2007. Another blood feeder? Experimental feeding of a fruit-piercing moth on human blood in the Primorye Region of Far Eastern Russia (Noctuidae: Calpinae: Calpini). Journal of Insect Behavior, 20(5): 437-451.
 1. Zaspel, J.M. 2018. Unpublished
+
 ### Data Issues
-This is a list of issues and decisions that were made while translating the observations from the literature into a series of single observations.
+
+Several issues and decisions arose while translating the observations from the literature into a series of single observations. Those are described here.
 
 1. Not, is not supported.
-2. ```piercing``` not available in RO, so ```biotically interacts with``` was used instead.
+2. A relationship in RO that specifically described the ```piercing``` not available in RO, so ```biotically interacts with``` was used instead.
 3. Some of the interactions were observed under controlled conditions (enclosed spaces) while in the field. These were interpreted as in an artificial or experimental environment and 
-
 
 ### Summary
 
