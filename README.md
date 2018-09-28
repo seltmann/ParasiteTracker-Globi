@@ -22,7 +22,9 @@ interactionTypeName | interactionTypeId
 --- | --- |
 eats | http://purl.obolibrary.org/obo/RO_0002470
 piercing | http://purl.obolibrary.org/obo/RO_0002437
-… | … | … 
+enclosed conditions | http://purl.obolibrary.org/obo/ENVO_01001405
+in nature | http://purl.obolibrary.org/obo/ENVO_01001226
+under experimental conditions | http://purl.obolibrary.org/obo/ENVO_01001405
  
 ### Data Definitions
 The definitions of the columns used in the interactions.tsv dataset are described here. If these correspond with Darwin Core they are mapped to those classes. Some of the columns in the template were unused.
@@ -52,13 +54,19 @@ The definitions of the columns used in the interactions.tsv dataset are describe
   * A **referenceCitation**  : The reference for the interaction.
   
 ### Included Resources
-
-Citations and included ontologies
-
+1. Bänziger, H. 1970. The piercing mechanism of the fruit piercing moth Calpe (Calyptra) thalictri Bkh. (Noctuidae) with reference to the skin-piercing blood-sucking moth Calpe eustrigata Hmps. Acta Tropica, 27: 54-88.
+1. Bänziger, H. 1975. Skin-piercing blood-sucking moths I: Ecological and ethological studies on Calpeeustrigata (Lepid., Noctuidae). Acta tropica, (Basel) 32: 366-369.
+1. Bänziger, H. 1979. Skin-piercing blood-sucking moths II: Studies on a further 3 adult Calyptra [Calpe] sp. (Lepid., Noctuidae). Acta Trop. 36(1):23-37.
+1. Bänziger, H. 1986. Skin-piercing blood-sucking moths IV: Biological studies on adults of 4 Calyptra species and 2 subspecies (Lepidoptera, Noctuidae).Mittellungen der Schweizerischen Entomologischen Gesellschaft, 59: 111-138.
+1. Bänziger, H. 1989. Skin-piercing blood-sucking moths V: Attacks on man by 5 Calyptra spp.(Lepidoptera: Noctuidae) in S. and S.E. Asia. Mittellungen der Schweizerischen Entomologischen Gesellschaft, 62: 215-233.
+1. Bänziger, H. 2007. Skin-piercing blood-sucking moths VI: Fruit-piercing habits in Calyptra (Noctuidae) and notes on the feeding strategies of zoophilous and frugivorous adult Lepidoptera. Mittellungen der Schweizerischen Entomologischen Gesellschaft, 80: 271-288.
+1. Quammen, D. Natural Acts: A Sidelong View of Science and Nature. 1985 pp. 47-52
+1. Zaspel, J.M., V.S. Kononenko, and P.Z. Goldstein. 2007. Another blood feeder? Experimental feeding of a fruit-piercing moth on human blood in the Primorye Region of Far Eastern Russia (Noctuidae: Calpinae: Calpini). Journal of Insect Behavior, 20(5): 437-451.
+1. Zaspel, J.M. 2018. Unpublished
 ### Data Issues
 This is a list of issues and decisions that were made while translating the observations from the literature into a series of single observations.
 
-1. Not, not supported
+1. Not, is not supported.
 2. ```piercing``` not available in RO, so ```biotically interacts with``` was used instead.
 3. Some of the interactions were observed under controlled conditions (enclosed spaces) while in the field. These were interpreted as in an artificial or experimental environment and 
 
