@@ -80,5 +80,5 @@ Several issues and decisions arose while translating the observations from the l
 
 ### Summary
 
-[https://raw.githubusercontent.com/seltmann/vampire-moth-globi/master/network-bloodfeeding.png](https://www.globalbioticinteractions.org/?accordingTo=globi%3Aseltmann%2Fvampire-moth-globi&interactionType=interactsWith)
+![https://raw.githubusercontent.com/seltmann/vampire-moth-globi/master/network-bloodfeeding.png](https://www.globalbioticinteractions.org/?accordingTo=globi%3Aseltmann%2Fvampire-moth-globi&interactionType=interactsWith)
 
