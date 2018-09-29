@@ -7,13 +7,14 @@
 
 ### Description
 
-vampire-moth-globi is a repository for interaction data about vampire moths and their fruit-piercing relatives. The feeding observations are from the literature. A pdf of the origninal interpretation in a table format is available ([Zaspel, 2018](https://github.com/seltmann/vampire-moth-globi/blob/master/calyptra_hosts.pdf])).
+vampire-moth-globi is a repository for interaction data about vampire moths and their fruit-piercing relatives (Lepidoptera: Erebidae: *Calyptra* spp.). The feeding observations are from the literature. A pdf of the original interpretation was put in a table format to include in presentations ([Zaspel, 2018](https://github.com/seltmann/vampire-moth-globi/blob/master/calyptra_hosts.pdf)).
 
 This GitHub repository was cloned from [globalbioticinteractions/template-dataset](https://github.com/globalbioticinteractions/template-dataset), which includes a blank interactions.tsv, README and globi.json. GloBI requires that the interactions.tsv be called interactions.tsv and for the globi.json file to exist. Some column headers of inteteractions.tsv file was modified from the cloned template, but follow the naming conventions.
 
 ### Citation
 
 Jennifer Zaspel. 2018. Biotic species interactions manually extracted from literature.
+
 
 ### Interaction Types
 
@@ -71,9 +72,11 @@ The definitions of the columns used in the interactions.tsv dataset are describe
 
 Several issues and decisions arose while translating the observations from the literature into a series of single observations. Those are described here.
 
-1. Not, is not supported.
-2. A relationship in RO that specifically described the ```piercing``` not available in RO, so ```biotically interacts with``` was used instead.
-3. Some of the interactions were observed under controlled conditions (enclosed spaces) while in the field. These were interpreted as in an artificial or experimental environment and 
+1. Not observed is presently not supported, but it can be included in the dataset.
+1. A relationship in RO that specifically described the ```piercing``` is not available in RO, so ```biotically interacts with``` was used instead. Piercing may not imply eating.
+1. Some of the interactions were observed under controlled conditions (e.g., in enclosed spaces) while in the field. These were interpreted as in an artificial or experimental environment even though they may have occurred outside.
+1. *Ficus* is a homonym with a genus of sea snail. GloBI displays snail images for *Ficus* the fig. Better taxonomic concept resolution is much needed, not just in GloBI, but throughout our data systems.
+1. 
 
 ### Summary
 
