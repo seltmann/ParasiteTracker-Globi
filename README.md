@@ -70,12 +70,13 @@ The definitions of the columns used in the interactions.tsv dataset are describe
 
 ### Data Issues
 
-Several issues and decisions arose while translating the observations from the literature into a series of single observations. Those are described here.
+Several issues and decisions arose while translating the observations from the literature into a series of single observations. These issues are detailed in the [GitHub issues](https://github.com/seltmann/vampire-moth-globi/issues) for this project and also described here.
 
 1. Not observed is presently not supported, but it can be included in the dataset.
 1. A relationship in RO that specifically described the ```piercing``` is not available in RO, so ```biotically interacts with``` was used instead. Piercing may not imply eating.
 1. Some of the interactions were observed under controlled conditions (e.g., in enclosed spaces) while in the field. These were interpreted as in an artificial or experimental environment even though they may have occurred outside.
 1. *Ficus* is a homonym with a genus of sea snail. GloBI displays snail images for *Ficus* the fig. Better taxonomic concept resolution is much needed, not just in GloBI, but throughout our data systems.
+1. There is presently not a way to depracate (or remove) a dataset from GloBI.
 
 
 ### Summary
