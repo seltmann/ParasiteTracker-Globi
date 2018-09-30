@@ -18,7 +18,7 @@ Jennifer Zaspel. 2018. Biotic species interactions manually extracted from liter
 
 ### Interaction Types
 
-The interactions in this dataset were mapped to terms in the Relations Ontology (RO). Piercing was not available in RO, so ```biotically interacts with``` was used as a replacement.
+The biotic species interactions in this dataset were mapped to terms in the Relations Ontology (RO). Piercing was not available in RO, so ```biotically interacts with``` was used as a replacement.
 
 interactionTypeName | interactionTypeId
 --- | --- |
@@ -76,9 +76,10 @@ Several issues and decisions arose while translating the observations from the l
 1. A relationship in RO that specifically described the ```piercing``` is not available in RO, so ```biotically interacts with``` was used instead. Piercing may not imply eating.
 1. Some of the interactions were observed under controlled conditions (e.g., in enclosed spaces) while in the field. These were interpreted as in an artificial or experimental environment even though they may have occurred outside.
 1. *Ficus* is a homonym with a genus of sea snail. GloBI displays snail images for *Ficus* the fig. Better taxonomic concept resolution is much needed, not just in GloBI, but throughout our data systems.
-1. 
+
 
 ### Summary
+The result is this dataset integrated with all other biotic interaction datasets. The interactions can be viewed on GloBI through the [interaction browser](https://www.globalbioticinteractions.org/browse/index.html?accordingTo=globi%3Aseltmann%2Fvampire-moth-globi&interactionType=interactsWith&resultType=json) or accessed through the [GloBI APIs](https://www.globalbioticinteractions.org/data.html).
 
 ![image of vampire-moth-globi](https://raw.githubusercontent.com/seltmann/vampire-moth-globi/master/network-bloodfeeding.png)
 
