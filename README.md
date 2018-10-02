@@ -82,5 +82,5 @@ Several issues and decisions arose while translating the observations from the l
 ### Summary
 The result is this dataset integrated with all other biotic interaction datasets. The interactions can be viewed on GloBI through the [interaction browser](https://www.globalbioticinteractions.org/browse/index.html?accordingTo=globi%3Aseltmann%2Fvampire-moth-globi&interactionType=interactsWith&resultType=json) or accessed through the [GloBI APIs](https://www.globalbioticinteractions.org/data.html).
 
-![image of vampire-moth-globi](https://raw.githubusercontent.com/seltmann/vampire-moth-globi/master/network-bloodfeeding.png)(https://www.globalbioticinteractions.org/data.html)
+[![image of vampire-moth-globi](https://raw.githubusercontent.com/seltmann/vampire-moth-globi/master/network-bloodfeeding.png)](https://www.globalbioticinteractions.org/data.html)
 
